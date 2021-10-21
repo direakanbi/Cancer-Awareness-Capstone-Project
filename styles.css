@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
 *,
 *::after,
 *::before {
@@ -199,7 +200,7 @@ body {
 }
 
 .logo-navbar {
-  width: rem !important;
+  width: 0 !important;
 }
 
 .cont-list-main {
@@ -316,7 +317,8 @@ img[src="./images/logo.jpg"] {
 .main {
   padding: 1rem;
   opacity: 0.9;
-  background: radial-gradient(
+  background:
+    radial-gradient(
       circle,
       transparent 20%,
       #000 20%,
@@ -325,14 +327,14 @@ img[src="./images/logo.jpg"] {
       transparent
     ),
     radial-gradient(
-        circle,
-        transparent 20%,
-        #000 20%,
-        #000 80%,
-        transparent 80%,
-        transparent
-      )
-      25px 25px,
+      circle,
+      transparent 20%,
+      #000 20%,
+      #000 80%,
+      transparent 80%,
+      transparent
+    )
+    25px 25px,
     linear-gradient(#171717 2px, transparent 2px) 0 -1px,
     linear-gradient(90deg, #171717 2px, #000 2px) -1px 0;
   background-color: #000;
@@ -503,22 +505,9 @@ img[src="./images/logo.jpg"] {
 .img-bck {
   background-color: #e5e5f7;
   opacity: 0.8;
-  background-image: repeating-linear-gradient(
-      45deg,
-      #646464 25%,
-      transparent 25%,
-      transparent 75%,
-      #646464 75%,
-      #646464
-    ),
-    repeating-linear-gradient(
-      45deg,
-      #646464 25%,
-      #e5e5f7 25%,
-      #e5e5f7 75%,
-      #646464 75%,
-      #646464
-    );
+  background-image:
+    repeating-linear-gradient(45deg, #646464 25%, transparent 25%, transparent 75%, #646464 75%, #646464),
+    repeating-linear-gradient(45deg, #646464 25%, #e5e5f7 25%, #e5e5f7 75%, #646464 75%, #646464);
   background-position: 0 0, 10px 10px;
   background-size: 20px 20px;
   width: 5rem;
@@ -817,11 +806,12 @@ img[src="./images/logo.jpg"] {
   width: 100%;
   top: 50%;
   left: 50%;
-  background-image: linear-gradient(
-    to right bottom,
-    rgba(0, 0, 0, 0.39),
-    rgba(3, 3, 3, 0.239)
-  );
+  background-image:
+    linear-gradient(
+      to right bottom,
+      rgba(0, 0, 0, 0.39),
+      rgba(3, 3, 3, 0.239)
+    );
   transform: translate(-50%, -50%);
 }
 
