@@ -32,4 +32,7 @@ Feel free to check the issues page.
 
 Show your support Give a ⭐️ if you like this project!
 
-📝 License This project is MIT licensed
+ # Acknowledgements
+ Cindy Shin, the author of the original design Behance.
+
+📝 License This project ( https://direakanbi.github.io/Cancer-Awareness-Capstone-Project/)is MIT licensed

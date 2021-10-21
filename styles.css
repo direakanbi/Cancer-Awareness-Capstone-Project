@@ -808,11 +808,12 @@ img[src="./images/logo.jpg"] {
   left: 50%;
   background-image:
     linear-gradient(
-      to right bottom,
-      rgba(0, 0, 0, 0.39),
-      rgba(3, 3, 3, 0.239)
+      rgba(236, 82, 66, 0.7),
+      rgba(246, 85, 67, 0.7)
     );
   transform: translate(-50%, -50%);
+  opacity: 10;
+  color: white;
 }
 
 .separator {
