@@ -35,4 +35,4 @@ Show your support Give a ⭐️ if you like this project!
  # Acknowledgements
  Cindy Shin, the author of the original design Behance.
 
-📝 License This project ( https://direakanbi.github.io/Cancer-Awareness-Capstone-Project/)is MIT licensed
+📝 License This project is [MIT](./MIT.md) licensed
