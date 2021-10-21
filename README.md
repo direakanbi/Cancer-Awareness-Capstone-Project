@@ -8,6 +8,7 @@ This project was made for my capstone project.
 1. HTML
 2. CSS
 3. Linters (Webhint, Stylelint, Lighthouse).
+4. Javascript.
 
 # Getting Started
 To get a local copy up and running follow these simple example steps.
