@@ -18,7 +18,7 @@ Usage: N/A Run tests: Run syntax tests with the use of the npx commands given in
 Deployment: Run index.html on your local server.
 
 Live Version
-Live Demo Link:
+Live Demo Link: https://direakanbi.github.io/Cancer-Awareness-Capstone-Project/
 
 Authors
 GitHub: @direakanbi 
