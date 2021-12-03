@@ -1,8 +1,5 @@
 # My Capstone Project
-This project was made for my capstone project.
-
-
-# Additional description about the project and its features.
+This site was designed to replicate a Cancer Awareness Site.
 
 # Built With
 1. HTML
