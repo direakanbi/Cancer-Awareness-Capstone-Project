@@ -1,5 +1,5 @@
 # My Capstone Project
-This site was designed to replicate a Cancer Awareness Site.
+This site was made to facilitate the outreach of the upcoming Cancer Awareness Summit.
 
 # Built With
 1. HTML
